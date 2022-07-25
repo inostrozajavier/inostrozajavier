@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://inostrozajavier.com/](https://inostrozajavier.com/)
 
-- 💬 Ask me about **html, css, javascrip and photoshop**
+- 💬 Ask me about **html, css, javascript and photoshop**
 
 - 📫 How to reach me **contacto@inostrozajavier.com**
 
